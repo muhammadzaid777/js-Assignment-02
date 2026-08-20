@@ -1,6 +1,6 @@
-// CHAPTER 6-9
+// .............CHAPTER 6 to 9.............
 
-// Q1
+// 1
 
 // var a = 10
 
@@ -22,7 +22,7 @@
 // document.write("The value of --a is: " + (a--) +"<br>")
 // document.write("The value of a is: " + (a) +"<br>")
 
-// Q2
+// 2
 // var a = 2, b = 1
 
 // var result = --a - --b + ++b + b--;
@@ -31,12 +31,12 @@
 // document.write("b is: " + b + "<br>")
 // document.write("result is: " + result )
 
-// Q3
+// 3
 
 // var Name = prompt("What is your Name?")
 // document.write("Hello " + Name + " Welcome to our Website!")
 
-// Q4
+// 4
 
 //  var table = prompt("Write a number table you want?")
 
@@ -77,7 +77,7 @@
 // }
 
 
-// Q5
+// 5
 // var subject1 = prompt("Enter your first Subject")
 // var subject2 = prompt("Enter your Second Subject")
 // var subject3 = prompt("Enter your Third Subject")
